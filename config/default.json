@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://sujitdalai20cse:Passw0rd@cluster0.whnosuu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "jwtSecret": "6942156f9140adb7d026acbc5ba6166196eeadc32e5f233f61296ea577743bbb",
+    "githubToken": "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"
+}
